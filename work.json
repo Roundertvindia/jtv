@@ -1,1 +1,1 @@
-"https://beauty-algorithms-condo-restricted.trycloudflare.com"
+"cloudflared tunnel --url http://localhost:5001"
